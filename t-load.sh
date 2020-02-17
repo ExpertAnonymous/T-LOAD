@@ -1,5 +1,5 @@
 #!Script  author Bibek sah
-#By Expert Anonymous
+#By noob hackers
 #Be a creative person not copy paster
 
 ###################################
@@ -21,15 +21,15 @@ echo " "
 echo -e "\e[1m\e[31m\
            
            ████████╗   ██╗      ██████╗  █████╗ ██████╗
-           ╚══██╔══╝   ██║     ██╔══██╗██╔══██╗██╔══██╗
+           ╚══██╔══╝   ██║     ██╔═══██╗██╔══██╗██╔══██╗
               ██║█████╗██║     ██║   ██║███████║██║  ██║
               ██║╚════╝██║     ██║   ██║██╔══██║██║  ██║
               ██║      ███████╗╚██████╔╝██║  ██║██████╔╝
               ╚═╝      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ v 1.1"
 echo " "  
-echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mBibeksah\e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mBibeksah \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31myoutube=ExpertAnonymous\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31myoutube-ExpertAnonymous\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 sleep 8.0
@@ -84,3 +84,4 @@ echo " "
 echo " "
 sleep 3.0
 cd $HOME
+
