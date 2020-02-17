@@ -55,7 +55,7 @@ bash rvt.sh
 ```
 
 ### Subscribe our channel on youtube
-https://www.youtube = Expert Anonymous
+Youtube channel = Expert Anonymous
      
 ### Warning
 
