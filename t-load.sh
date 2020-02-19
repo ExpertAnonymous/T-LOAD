@@ -34,7 +34,6 @@ echo " "
 echo ""
 sleep 8.0
 pkg install mpv -y
-termux-setup-storage
 cd  /data/data/com.termux/files/usr/etc
 
 rm bash.bashrc
