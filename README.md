@@ -1,5 +1,5 @@
 # Expert Anonymous
-![](56208939-f9cb5700-606f-11e9-9d4c-ae3080238309.jpg)
+![](Screenshot_20200217-194315.png)
 
 
 ### T-LOAD is available for
