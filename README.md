@@ -1,5 +1,4 @@
-#Expert Anonymous
-Anonymous Hack47
+# Expert Anonymous
 ![](56208939-f9cb5700-606f-11e9-9d4c-ae3080238309.jpg)
 
 
