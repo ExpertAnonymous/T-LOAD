@@ -1,6 +1,6 @@
 #!Script  author Bibeksah
 #By Expert Anonymous
-#Be a creative person not copy paster
+#Don't be evil be a cracker
 
 ###################################
 cyan='\e[0;36m'
@@ -25,7 +25,8 @@ echo -e "\e[1m\e[31m\
               ██║█████╗██║     ██║   ██║███████║██║  ██║
               ██║╚════╝██║     ██║   ██║██╔══██║██║  ██║
               ██║      ███████╗╚██████╔╝██║  ██║██████╔╝
-              ╚═╝      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ v 1.1"
+              ╚═╝      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ v 1.1
+                   !!! Dont't be evil be a cracker !!!"
 echo " "  
 echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mBibeksah \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
