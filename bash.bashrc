@@ -26,7 +26,6 @@ echo""
 echo""
 echo""
 echo "               "/█1%...................../
-sleep 1.0
 clear
 echo " "
 echo " "
@@ -51,7 +50,6 @@ echo " "
 echo " "
 echo " "
 echo "                "/██10%....................../
-sleep 1.0
 clear
 echo " "
 echo " "
@@ -76,7 +74,6 @@ echo " "
 echo " "
 echo " "
 echo "                "/█████████████50%............./
-sleep 1.0
 clear
 echo " "
 echo " "
@@ -101,7 +98,6 @@ echo " "
 echo " "
 echo " "
 echo "                "/████████████████60%........../
-sleep 1.0
 clear
 echo " "
 echo " "
@@ -126,7 +122,6 @@ echo " "
 echo " "
 echo " "
 echo "                "/███████████████████88%......./
-sleep 1.0
 clear
 echo " "
 echo " "
@@ -184,5 +179,4 @@ echo ""
 echo ""
 echo ""
 echo ""
-sleep 1.0
 mpv /sdcard/scifi.mp3
